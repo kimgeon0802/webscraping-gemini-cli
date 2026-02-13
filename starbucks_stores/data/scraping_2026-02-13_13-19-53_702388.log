@@ -1,0 +1,35 @@
+2026-02-13 13:19:53.704 | INFO     | __main__:get_starbucks_stores:76 - Scraping stores for sido_cd: 01
+2026-02-13 13:19:55.182 | INFO     | __main__:get_starbucks_stores:81 - Found 675 stores for sido_cd: 01
+2026-02-13 13:19:55.183 | INFO     | __main__:get_starbucks_stores:76 - Scraping stores for sido_cd: 02
+2026-02-13 13:19:56.182 | INFO     | __main__:get_starbucks_stores:81 - Found 71 stores for sido_cd: 02
+2026-02-13 13:19:56.183 | INFO     | __main__:get_starbucks_stores:76 - Scraping stores for sido_cd: 03
+2026-02-13 13:19:57.383 | INFO     | __main__:get_starbucks_stores:81 - Found 94 stores for sido_cd: 03
+2026-02-13 13:19:57.384 | INFO     | __main__:get_starbucks_stores:76 - Scraping stores for sido_cd: 04
+2026-02-13 13:19:58.474 | INFO     | __main__:get_starbucks_stores:81 - Found 73 stores for sido_cd: 04
+2026-02-13 13:19:58.474 | INFO     | __main__:get_starbucks_stores:76 - Scraping stores for sido_cd: 05
+2026-02-13 13:19:59.444 | INFO     | __main__:get_starbucks_stores:81 - Found 146 stores for sido_cd: 05
+2026-02-13 13:19:59.445 | INFO     | __main__:get_starbucks_stores:76 - Scraping stores for sido_cd: 06
+2026-02-13 13:20:00.133 | INFO     | __main__:get_starbucks_stores:81 - Found 35 stores for sido_cd: 06
+2026-02-13 13:20:00.133 | INFO     | __main__:get_starbucks_stores:76 - Scraping stores for sido_cd: 07
+2026-02-13 13:20:00.953 | INFO     | __main__:get_starbucks_stores:81 - Found 92 stores for sido_cd: 07
+2026-02-13 13:20:00.953 | INFO     | __main__:get_starbucks_stores:76 - Scraping stores for sido_cd: 08
+2026-02-13 13:20:02.242 | INFO     | __main__:get_starbucks_stores:81 - Found 514 stores for sido_cd: 08
+2026-02-13 13:20:02.242 | INFO     | __main__:get_starbucks_stores:76 - Scraping stores for sido_cd: 09
+2026-02-13 13:20:03.188 | INFO     | __main__:get_starbucks_stores:81 - Found 43 stores for sido_cd: 09
+2026-02-13 13:20:03.189 | INFO     | __main__:get_starbucks_stores:76 - Scraping stores for sido_cd: 10
+2026-02-13 13:20:03.970 | INFO     | __main__:get_starbucks_stores:81 - Found 81 stores for sido_cd: 10
+2026-02-13 13:20:03.971 | INFO     | __main__:get_starbucks_stores:76 - Scraping stores for sido_cd: 11
+2026-02-13 13:20:04.701 | INFO     | __main__:get_starbucks_stores:81 - Found 64 stores for sido_cd: 11
+2026-02-13 13:20:04.702 | INFO     | __main__:get_starbucks_stores:76 - Scraping stores for sido_cd: 12
+2026-02-13 13:20:05.419 | INFO     | __main__:get_starbucks_stores:81 - Found 37 stores for sido_cd: 12
+2026-02-13 13:20:05.419 | INFO     | __main__:get_starbucks_stores:76 - Scraping stores for sido_cd: 13
+2026-02-13 13:20:06.160 | INFO     | __main__:get_starbucks_stores:81 - Found 44 stores for sido_cd: 13
+2026-02-13 13:20:06.161 | INFO     | __main__:get_starbucks_stores:76 - Scraping stores for sido_cd: 14
+2026-02-13 13:20:07.032 | INFO     | __main__:get_starbucks_stores:81 - Found 54 stores for sido_cd: 14
+2026-02-13 13:20:07.033 | INFO     | __main__:get_starbucks_stores:76 - Scraping stores for sido_cd: 15
+2026-02-13 13:20:07.795 | INFO     | __main__:get_starbucks_stores:81 - Found 41 stores for sido_cd: 15
+2026-02-13 13:20:07.796 | INFO     | __main__:get_starbucks_stores:76 - Scraping stores for sido_cd: 16
+2026-02-13 13:20:08.633 | INFO     | __main__:get_starbucks_stores:81 - Found 35 stores for sido_cd: 16
+2026-02-13 13:20:08.634 | INFO     | __main__:get_starbucks_stores:76 - Scraping stores for sido_cd: 17
+2026-02-13 13:20:09.386 | INFO     | __main__:get_starbucks_stores:81 - Found 15 stores for sido_cd: 17
+2026-02-13 13:20:09.540 | INFO     | __main__:<module>:94 - Scraping complete. Data saved to starbucks_stores/data/starbucks_ai.csv
